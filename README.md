@@ -11,5 +11,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreychiruk&show_icons=true&locale=en" alt="andreychiruk" /></p>
 <div align="center">
-<img max-width="800" src="https://github.com/innng/innng/blob/master/assets/Github%20Profile%203-1(4).png"/>
+<img max-width="800" src="https://akspic.ru/image/172404-vashe_imya-miyamizu_mitsuha-taki_tachibana-anime-atmosfera"/>
 </div>
