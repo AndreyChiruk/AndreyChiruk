@@ -13,7 +13,7 @@
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andreychiruk&show_icons=true&theme=bear" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=andreychiruk1&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=andreychiruk&theme=dark&hide_border=true" width="400">
 </p>
 <div align="center">
 <img max-width="600" height="200px" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/25c93de1-6e99-4835-819a-9c5980441908"/>
