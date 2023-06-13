@@ -11,6 +11,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreychiruk&show_icons=true&locale=en" alt="andreychiruk" /></p>
 <div align="center">
-<img max-width="800" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/25c93de1-6e99-4835-819a-9c5980441908"/>
+<img max-width="800" max-height="400px" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/25c93de1-6e99-4835-819a-9c5980441908"/>
 </div>
 <!-- ![img2 akspic ru-vashe_imya-miyamizu_mitsuha-taki_tachibana-anime-atmosfera-7680x4320](https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/25c93de1-6e99-4835-819a-9c5980441908) -->
