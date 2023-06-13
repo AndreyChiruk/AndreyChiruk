@@ -2,8 +2,8 @@
 <h3 align="center">Beginning front-end developer</h3>
 <p align="center"> <img align="center" width="500px" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/826ba4aa-4104-45d2-8ed5-8ddcb71da3b8"></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">🖥Connect with me:</h3>
+<p align="center">
 <a href="https://discord.gg/510516340755529740" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="510516340755529740" height="30" width="40" /></a>
 </p>
 
