@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
 <h3 align="center">Beginning front-end developer</h3>
-<img align="center" width="500px" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/826ba4aa-4104-45d2-8ed5-8ddcb71da3b8">
+<p align="center"> <img align="center" width="500px" src="https://github.com/AndreyChiruk/AndreyChiruk/assets/108932683/826ba4aa-4104-45d2-8ed5-8ddcb71da3b8"></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
