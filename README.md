@@ -15,7 +15,7 @@
 <h3>🌐I am a BSTU student living in Belarus. At the moment, I have made a couple of freelance orders for creating landing pages. I create websites using HTML(BEM) + SASS + JavaScript. Started learning Vue.js and SEO optimization. Basic knowledge of Python, C# and PHP</h3>
 <hr>
 <p align="center">
-  <img src="https://github.r2v.ch/codewars?user=Andrey_Chiruk&stroke=green">
+  <img src="https://github.r2v.ch/codewars?user=Andrey_Chiruk&stroke=green width="400"">
   <img src="https://github-readme-stats.vercel.app/api?username=andreychiruk&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andreychiruk&theme=dark&hide_border=true" width="400">
 </p>
