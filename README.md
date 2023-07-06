@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
+<h1 align="center">Hi 🗿, I'm Andrey</h1>
 <h3 align="center">Beginning front-end developer</h3>
 <p align="center"> <img align="center" width="500px" src="https://abrakadabra.fun/uploads/posts/2021-12/1640384400_9-abrakadabra-fun-p-banner-profilya-anime-10.jpg"></p>
 
