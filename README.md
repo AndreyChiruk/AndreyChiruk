@@ -1,6 +1,6 @@
 <h1 align="center">Hi 🗿, I'm Andrey</h1>
 <h3 align="center">Beginning front-end developer</h3>
-<p align="center"> <img align="center" width="600px" src="https://m.media-amazon.com/images/M/MV5BNGY2NDk4ODQtMjViZi00NmEwLWEwNmItODgwOTM4MDdjM2EwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"></p>
+<p align="center"> <img align="center" width="600px" height="300px" src="https://m.media-amazon.com/images/M/MV5BNGY2NDk4ODQtMjViZi00NmEwLWEwNmItODgwOTM4MDdjM2EwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"></p>
 
 <h3 align="center">🖥Connect with me:</h3>
 <p align="center">
