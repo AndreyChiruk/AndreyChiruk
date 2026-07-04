@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://github.r2v.ch/codewars?user=Andrey_Chiruk&stroke=green" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=andreychiruk&theme=dark&hide_border=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyChiruk&layout=compact&show_icons=true&theme=dracula" width="400">
 </p>
 
 ## 📫 Connect with Me
@@ -84,7 +83,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>“Building the future, one commit at a time.”</i> 🚀
-</p>
