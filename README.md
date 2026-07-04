@@ -81,5 +81,3 @@
 <p align="center">
   <img src="https://www.codewars.com/users/Andrey_Chiruk/badges/large" alt="Codewars Badge">
 </p>
-
----
